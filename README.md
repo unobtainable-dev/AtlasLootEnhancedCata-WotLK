@@ -31,5 +31,21 @@ To avoid database conflicts, you **must** delete your old folders from `Interfac
 - **Classic Item Quality:** Some item names or qualities might still reflect their post-Cata states. While server queries fix most of these automatically, I am manually auditing the database.
 - **Report a Bug:** If you find an item that doesn't match the 3.3.5a database exactly, please open an issue. Your feedback helps maintain the immersion!
 
+## 📦 How to Install
+- Extract `AtlasLootEnhancedCata-WotLK-main.zip`
+- Copy All of the Folders:
+- `AtlasLoot`
+- `AtlasLoot_BurningCrusade`
+- `AtlasLoot_ClassicWoW`
+- `AtlasLoot_Crafting`
+- `AtlasLoot_Loader`
+- `AtlasLoot_WorldEvents`
+- `AtlasLoot_WrathoftheLichKing`
+## - if you are using ElvUI also copy: `ElvUI_AddOnSkins` - (If you are not using ElvUI you can skip this one)
+- Paste All of the Folders to: `Interface/Addons`
+
+> [!TIP]
+> If you see a folder named `AtlasLootEnhancedCata-WotLK-main` inside your `AddOns` folder, **YOU DID IT WRONG.** Take the folders out of it and put them in the main AddOns directory!
+
 ---
 *Source code base provided by [skyler-code](https://github.com/skyler-code/AtlasLoot_WOTLK).*
