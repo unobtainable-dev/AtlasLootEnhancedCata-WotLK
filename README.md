@@ -41,7 +41,7 @@ To avoid database conflicts, you **must** delete your old folders from `Interfac
 - `AtlasLoot_Loader`
 - `AtlasLoot_WorldEvents`
 - `AtlasLoot_WrathoftheLichKing`
-## - if you are using ElvUI also copy: `ElvUI_AddOnSkins` - (If you are not using ElvUI you can skip this one)
+## If you are using ElvUI also copy: `ElvUI_AddOnSkins` - (If you are not using ElvUI you can skip this one)
 - Paste All of the Folders to: `Interface/Addons`
 
 > [!TIP]
